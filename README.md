@@ -1,1 +1,1 @@
-# YAC8S
+# Yet Another CHIP-8 Emulator
