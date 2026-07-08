@@ -26,7 +26,12 @@ class Chip8 {
 		uint8_t keypad[16];
 
 		void cycle();
+		void reset();
+		void update_timers();
 		bool load(const char *file_path);
+		bool is_beeping() const { return sound_timer > 0; }
+
+		Chip8();
 };
 
 #endif
