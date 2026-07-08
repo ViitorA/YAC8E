@@ -1,6 +1,6 @@
-# Yet Another CHIP-8 Emulator
+# C++ CHIP-8 Emulator
 
-CHIP-8 Emulator written in C
+CHIP-8 Emulator written in C++.
 
 
 ## Used References
